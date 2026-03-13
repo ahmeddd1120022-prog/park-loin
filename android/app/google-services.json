@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533641156076",
+    "project_id": "park-lion",
+    "storage_bucket": "park-lion.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533641156076:android:ae6ef7221164378045dcc9",
+        "android_client_info": {
+          "package_name": "com.example.park_lion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6g88oZpcrdcl0tXB-3j_MQUJecnC1SIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
